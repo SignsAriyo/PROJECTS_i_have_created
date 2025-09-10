@@ -33,13 +33,13 @@ This app is a **completed portfolio project** to showcase my ability to:
 ## 📸 Screenshots
 
 ### Splash Screen
-<img src="SHOP_APP/screenshots/splash.png" alt="Splash Screen" width="300"/>
+<img src="screenshots/splash.png" alt="Splash Screen" width="300"/>
 
 ### Home Screen
-<img src="SHOP_APP/screenshots/home_page.png" alt="Home Screen" width="300"/>
+<img src="screenshots/home_page.png" alt="Home Screen" width="300"/>
 
 ### AD Page
-<img src="SHOP_APP/screenshots/ad_page.png" alt="AD Screen" width="300"/>
+<img src="screenshots/ad_page.png" alt="AD Screen" width="300"/>
 
 ---
 
